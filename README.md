@@ -1,5 +1,6 @@
-### CMSI 3801 Homework
+### Owen DewingCMSI 3801 Homework
 
+Owen Dewing
 Homework 1:
 Problems: first then lowercase, powers generator, say, meaningful line count, quaternion class
 Languages: Lua, Python, Javascript
