@@ -1,4 +1,4 @@
-### Owen DewingCMSI 3801 Homework
+### Owen Dewing CMSI 3801 Homework
 
 Owen Dewing
 Homework 1:
